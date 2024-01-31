@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitish Sachdeva 
 - 👀 I’m interested in Everything New that makes a difference in Tech World 
-- 🌱 I’m currently learning Devops 
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me www.linkedin.com/in/nitishsachdeva 
 - Email - sch.nitish@gmail.com
 <!---
